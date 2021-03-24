@@ -1,6 +1,0 @@
-## thing
-
-test
-
-wanderer
-`tset`
